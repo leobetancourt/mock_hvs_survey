@@ -1,0 +1,5 @@
+venv/
+data/
+plots/
+simulations/
+__pycache__/
