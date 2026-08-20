@@ -3,3 +3,4 @@ data/
 plots/
 simulations/
 __pycache__/
+galpy/
